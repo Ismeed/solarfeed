@@ -1,0 +1,1084 @@
+{
+  "meta": {
+    "langName": "English",
+    "translationStatus": "complete"
+  },
+  "common": {
+    "skip": "Skip to content",
+    "estimate": "Planning estimate",
+    "illustrative": "Illustrative",
+    "sampleData": "Sample data",
+    "source": "Source",
+    "sources": "Sources",
+    "photoSoon": "Photo coming soon",
+    "partnerCta": "Partner with us",
+    "emailUs": "Email us",
+    "callUs": "Call us",
+    "email": "isfagachi@gmail.com",
+    "phone": "+234 810 841 3213",
+    "phoneHref": "+2348108413213",
+    "address": "No. 3 Ibrahim Coomassie Road, New GRA, Ring Road, Katsina, Katsina State, Nigeria",
+    "oneLiner": "SolarFeed Hubs is a shared, solar-powered micro feed mill whose software tests every ingredient, formulates least-cost poultry feed from local grain, and mills on sunlight — giving smallholder farmers the feed economics of a large farm.",
+    "backHome": "Back to the home page",
+    "readMore": "Read more",
+    "opensNewTab": "(opens in a new tab)"
+  },
+  "nav": {
+    "homeLink": "Home",
+    "primary": "Primary",
+    "home": "SolarFeed Hubs home",
+    "problem": "Problem",
+    "how": "How it works",
+    "numbers": "The numbers",
+    "pilot": "Pilot",
+    "partners": "Partners",
+    "about": "About",
+    "impact": "Impact",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "menu": "Menu",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language",
+    "langNotice": "Hausa translation is in progress. Text stays in English until a human translator has written and checked it."
+  },
+  "footer": {
+    "description": "A shared, solar-powered micro feed mill for smallholder poultry farmers in northern Nigeria.",
+    "site": "Site",
+    "contact": "Contact",
+    "projectOf": "A project of Swifter Ventures LTD · CAC RC 8894875",
+    "privacy": "Privacy policy",
+    "disclaimer": "Illustrations are artistic. Figures marked as estimates are planning assumptions until the pilot measures them.",
+    "copyright": "© {year} Swifter Ventures LTD"
+  },
+  "seo": {
+    "home": {
+      "title": "SolarFeed Hubs — Solar-powered feed milling for smallholder poultry farmers in Nigeria",
+      "description": "A shared, solar-powered micro feed mill that tests every ingredient, formulates least-cost poultry feed from local grain and mills on sunlight. Pilot launching in Katsina State, Nigeria."
+    },
+    "how": {
+      "title": "How it works — SolarFeed Hubs",
+      "description": "Solar power, a software quality gate and sun-aware scheduling: how a SolarFeed hub turns local grain into tested, traceable poultry feed."
+    },
+    "pilot": {
+      "title": "The pilot — SolarFeed Hubs",
+      "description": "A 12-month pilot in Katsina State: one solar feed hub, 30–40 farmers, monthly lab testing and a 120-hen laying trial with Federal University Dutsin-Ma."
+    },
+    "impact": {
+      "title": "Impact — SolarFeed Hubs",
+      "description": "Why solar feed hubs matter: feed costs, diesel prices, aflatoxin in small-mill feed, local jobs and farmer data rights under the NDPA 2023. With sources."
+    },
+    "about": {
+      "title": "About — SolarFeed Hubs",
+      "description": "SolarFeed Hubs is a project of Swifter Ventures LTD, Katsina, with Federal University Dutsin-Ma and the Katsina State Ministry of Livestock Development."
+    },
+    "contact": {
+      "title": "Partner with us — SolarFeed Hubs",
+      "description": "Funders, cooperatives, state programmes, suppliers and fabricators: talk to us about bringing a solar feed hub to your community."
+    },
+    "privacy": {
+      "title": "Privacy policy — SolarFeed Hubs",
+      "description": "How SolarFeed Hubs collects, uses and keeps your personal data, in line with the Nigeria Data Protection Act 2023."
+    },
+    "notFound": {
+      "title": "Page not found — SolarFeed Hubs",
+      "description": "This page does not exist."
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Pilot launching in Katsina State, Nigeria",
+      "title1": "Feed milled by the sun.",
+      "title2": "Priced for the smallholder.",
+      "ctaPrimary": "See how it works",
+      "ctaSecondary": "See the numbers",
+      "cardLabel": "Pilot targets · Year one",
+      "cardItems": [
+        {
+          "value": "150 t",
+          "label": "Feed milled"
+        },
+        {
+          "value": "30–40",
+          "label": "Farmers served"
+        },
+        {
+          "value": "15%",
+          "label": "Cheaper than market"
+        }
+      ],
+      "cardNote": "Targets for hub one. Not yet results.",
+      "illustrationAlt": "Illustration of a SolarFeed hub in the northern Nigerian savanna. Three rows of solar panels send power to the hub building, where a mill stands behind the open door. Two farmers bring grain and carry feed, an operator holds a tablet and chickens peck in the yard."
+    },
+    "partners": {
+      "label": "Built with",
+      "names": [
+        "Swifter Ventures LTD",
+        "Federal University Dutsin-Ma",
+        "Katsina State Ministry of Livestock Development"
+      ]
+    },
+    "problem": {
+      "eyebrow": "01 · The problem",
+      "title": "The problem in four numbers",
+      "lede": "Feed decides whether a small poultry farm makes money. Smallholders in northern Nigeria pay too much for feed of uncertain quality.",
+      "feedShare": {
+        "value": "65–70%",
+        "title": "of poultry input costs is feed",
+        "body": "Feed is the biggest bill on the farm. Every naira saved on feed goes straight to the farmer.",
+        "source": "Poultry Association of Nigeria",
+        "chartLabel": "Ring chart: feed is 65 to 70 per cent of input costs."
+      },
+      "diesel": {
+        "title": "Diesel price per litre",
+        "callout": "+86% in a year",
+        "fromLabel": "May 2025",
+        "toLabel": "May 2026",
+        "fromValue": "₦1,758",
+        "toValue": "₦3,277",
+        "body": "Bagged feed is milled far away and priced on diesel. When the pump price moves, the bag price follows.",
+        "source": "National Bureau of Statistics",
+        "chartLabel": "Bar chart: average diesel price rose from 1,758 naira per litre in May 2025 to 3,277 naira in May 2026.",
+        "calloutValue": "+86%",
+        "calloutUnit": "in a year"
+      },
+      "aflatoxin": {
+        "value": "83",
+        "title": "in every 100 small-mill feed samples carried aflatoxin B1",
+        "body": "Samples came from in-house farm mills across 12 states. Groundnut cake was the main source.",
+        "source": "Akinmusire et al., Mycotoxin Research, 2019",
+        "chartLabel": "Grid of 100 squares, 83 of them highlighted: 83 per cent of samples carried aflatoxin B1.",
+        "legendAffected": "Carried aflatoxin B1",
+        "legendClear": "Did not"
+      },
+      "scale": {
+        "title": "Own-mill break-even",
+        "breakEvenLabel": "Break-even for milling your own",
+        "breakEvenValue": "8,000 layers",
+        "flockLabel": "A 300-bird flock",
+        "flockValue": "300",
+        "caption": "Smallholders are over 60% of the sector",
+        "body": "Milling your own feed only pays at around 8,000 layers. Most smallholders are nowhere near that.",
+        "source": "Poultry Association of Nigeria",
+        "chartLabel": "Bar chart: own-mill break-even at 8,000 layers, compared with a 300-bird flock."
+      },
+      "statement": "Quality-controlled milling only exists at a scale smallholders cannot reach — and the energy it runs on keeps getting more expensive."
+    },
+    "how": {
+      "eyebrow": "02 · How it works",
+      "title": "Sunlight, software and a schedule",
+      "lede": "A hub is a small feed mill shared by a cluster of 30–40 farmers. Three parts work together to make good feed cheaper.",
+      "parts": [
+        {
+          "tag": "Power",
+          "title": "Sunlight drives the mill",
+          "body": "An 11 kWp solar array powers a 7.5 kW hammer mill and a 500 kg vertical mixer through solar motor drives. No diesel, and no large battery bank."
+        },
+        {
+          "tag": "Quality",
+          "title": "Software guards quality",
+          "body": "Every maize and groundnut-cake lot is tested for moisture and aflatoxin at intake. Lots above 13% moisture or 20 µg/kg aflatoxin are blocked from any batch."
+        },
+        {
+          "tag": "Timing",
+          "title": "Scheduling replaces storage",
+          "body": "Grinding is queued for the strongest-sun hours. Mixing and bagging fill the rest of the day. Least-cost formulas update with weekly local ingredient prices."
+        }
+      ],
+      "stepsTitle": "From grain to traced bag, in six steps",
+      "steps": [
+        {
+          "title": "Intake",
+          "body": "Farmers bring grain or prepay for hub mash. Each lot gets an ID."
+        },
+        {
+          "title": "Quality gate",
+          "body": "Moisture and aflatoxin are tested. Lots over the limit are blocked."
+        },
+        {
+          "title": "Formulate",
+          "body": "A least-cost formula from this week’s local ingredient prices."
+        },
+        {
+          "title": "Schedule",
+          "body": "Grinding is queued into the strongest-sun window."
+        },
+        {
+          "title": "Grind & mix",
+          "body": "Hammer mill and 500 kg mixer run on solar power."
+        },
+        {
+          "title": "Bag & trace",
+          "body": "Every 25 kg bag carries a batch ID linked to its tests."
+        }
+      ],
+      "link": "Explore how a hub works"
+    },
+    "software": {
+      "eyebrow": "03 · Inside the software",
+      "title": "A mill that refuses to grind bad grain.",
+      "body": "The hub console checks every lot against hard limits before it can join a batch. If a lot fails, the software will not let it in — and every bag can be traced back to the tests behind it.",
+      "bullets": [
+        "Hard limits: 13% moisture, 20 µg/kg aflatoxin",
+        "A batch ID on every 25 kg bag",
+        "Operator tablet works offline and syncs later",
+        "Farmers order by WhatsApp or USSD"
+      ],
+      "console": {
+        "title": "Hub console",
+        "subtitle": "Intake · Quality gate",
+        "badge": "Sample data",
+        "colLot": "Lot",
+        "colIngredient": "Ingredient",
+        "colMoisture": "Moisture",
+        "colAflatoxin": "Aflatoxin",
+        "colStatus": "Status",
+        "pass": "Pass",
+        "blocked": "Blocked",
+        "blockedReason": "Aflatoxin above 20 µg/kg. Held from every batch.",
+        "limits": "Limits · moisture ≤ 13% · aflatoxin ≤ 20 µg/kg",
+        "rows": [
+          {
+            "id": "K-0142",
+            "ingredient": "Maize",
+            "moisture": "12.1%",
+            "aflatoxin": "6 µg/kg",
+            "status": "pass"
+          },
+          {
+            "id": "K-0143",
+            "ingredient": "Sorghum",
+            "moisture": "11.8%",
+            "aflatoxin": "4 µg/kg",
+            "status": "pass"
+          },
+          {
+            "id": "K-0144",
+            "ingredient": "Groundnut cake",
+            "moisture": "10.9%",
+            "aflatoxin": "38 µg/kg",
+            "status": "blocked"
+          },
+          {
+            "id": "K-0145",
+            "ingredient": "Soybean meal",
+            "moisture": "11.2%",
+            "aflatoxin": "3 µg/kg",
+            "status": "pass"
+          }
+        ],
+        "tileSolar": "Solar input",
+        "tileSolarValue": "9.4 kW",
+        "tileWindow": "Grinding window",
+        "tileWindowValue": "10:30–14:30",
+        "tileBatch": "Next batch",
+        "tileBatchValue": "500 kg layer mash",
+        "caption": "Mock-up of the planned hub console. Sample data, not live readings."
+      }
+    },
+    "numbers": {
+      "eyebrow": "04 · The numbers",
+      "title": "What sunlight does to the cost of feed",
+      "lede": "Our planning estimates, shown with their workings. The pilot exists to replace them with measured figures.",
+      "energy": {
+        "title": "Energy cost per 25 kg bag",
+        "badge": "Planning estimate",
+        "diesel": "Diesel mill",
+        "dieselValue": "≈ ₦1,670",
+        "solar": "SolarFeed hub",
+        "solarValue": "≈ ₦80",
+        "callout": "−95%",
+        "calloutLabel": "energy cost per bag",
+        "footnote": "Planning estimate. Diesel: about 10 L per 300 kg processed (Belonio et al., 2003) at ₦2,000/L. Solar: system cost over 10 years and 200 t/year, plus maintenance. The pilot replaces both with measured figures.",
+        "chartLabel": "Bar chart, planning estimate: energy cost per 25 kilogram bag is about 1,670 naira with a diesel mill and about 80 naira with a SolarFeed hub."
+      },
+      "yearly": {
+        "title": "Yearly saving by flock size",
+        "subtitle": "At 15% below a ₦18,000 bag · illustrative",
+        "badge": "Illustrative",
+        "axis": "Laying hens",
+        "valueLabel": "Saving per year",
+        "tableCaption": "Illustrative yearly saving by flock size, at 15% below an ₦18,000 bag",
+        "hens": "{count} hens"
+      },
+      "calc": {
+        "title": "Savings calculator",
+        "badge": "Illustrative",
+        "lede": "Move the slider to your flock size and pick the price you pay for a bag of layer mash.",
+        "hensLabel": "Laying hens",
+        "priceLabel": "Price you pay per 25 kg bag",
+        "bagsPerYear": "Bags of feed per year",
+        "perMonth": "Saving per month",
+        "perYear": "Saving per year",
+        "atDiscount": "At 15% below your bag price",
+        "note": "Assumes about 115 g of feed per hen per day. Not a quote.",
+        "formula": "Bags = hens × 0.115 kg × 365 ÷ 25 kg. Saving = bags × bag price × 15%."
+      },
+      "budget": {
+        "title": "Where hub one’s €18,250 goes",
+        "lede": "The funding requested for the pilot. Partners add €7,000 in-kind co-financing, for a total of €25,250.",
+        "requested": "Requested",
+        "inKind": "In-kind co-financing",
+        "total": "Pilot total",
+        "chartLabel": "Ring chart of the €18,250 pilot budget, split across seven lines listed beside it.",
+        "items": [
+          {
+            "key": "ops",
+            "label": "Operations, training and audit",
+            "value": 3300
+          },
+          {
+            "key": "solar",
+            "label": "Solar power system",
+            "value": 3800
+          },
+          {
+            "key": "qc",
+            "label": "Quality control and lab analysis",
+            "value": 2900
+          },
+          {
+            "key": "mill",
+            "label": "Mill, mixer and scales",
+            "value": 2750
+          },
+          {
+            "key": "software",
+            "label": "Software and metering",
+            "value": 2700
+          },
+          {
+            "key": "trial",
+            "label": "Laying trial",
+            "value": 1450
+          },
+          {
+            "key": "contingency",
+            "label": "Contingency",
+            "value": 1350
+          }
+        ]
+      }
+    },
+    "audience": {
+      "eyebrow": "05 · Who it’s for",
+      "title": "Made for the farms big mills leave out",
+      "cards": [
+        {
+          "title": "The 300-bird farmer",
+          "body": "Buys feed one bag at a time, at a price set by diesel and distance. A hub mills tested feed close to home, from the farmer’s own grain or prepaid hub mash."
+        },
+        {
+          "title": "The farmer group",
+          "body": "A cooperative of 30–40 farmers is exactly the cluster one hub is designed to serve. Members share the mill, and a per-bag fee covers operators and maintenance."
+        },
+        {
+          "title": "The livestock ministry",
+          "body": "A state programme can host hubs and mobilise farmers through its extension staff. Every hub records batch-level cost and quality data that can guide the next one."
+        }
+      ]
+    },
+    "pilot": {
+      "eyebrow": "06 · The pilot",
+      "title": "Twelve months in Katsina State",
+      "lede": "One hub, one cluster of farmers, and a research partner measuring everything.",
+      "phases": [
+        {
+          "when": "Months 1–2",
+          "title": "Install",
+          "body": "Solar array, mill and mixer commissioned. Baseline survey of 60 farmers and two diesel mills."
+        },
+        {
+          "when": "Month 3",
+          "title": "First tested batch",
+          "body": "Production and monthly lab testing begin. Two operators trained."
+        },
+        {
+          "when": "Months 4–7",
+          "title": "Laying trial",
+          "body": "120 hens, hub mash vs commercial mash, run by FUDMA under animal ethics approval."
+        },
+        {
+          "when": "Months 8–12",
+          "title": "Prove and publish",
+          "body": "150 tonnes milled. Open-access report, anonymised dataset and an English–Hausa replication guide."
+        }
+      ],
+      "targetsTitle": "What success looks like",
+      "targets": [
+        {
+          "value": "≥ 50%",
+          "label": "lower energy cost and CO₂ per tonne than diesel milling"
+        },
+        {
+          "value": "≤ 20 µg/kg",
+          "label": "aflatoxin and ≤ 13% moisture in every released batch"
+        },
+        {
+          "value": "No worse",
+          "label": "egg production than on commercial feed"
+        },
+        {
+          "value": "≥ 15%",
+          "label": "cheaper than commercial layer mash"
+        }
+      ],
+      "link": "Read the full pilot plan"
+    },
+    "team": {
+      "eyebrow": "07 · Who is behind it",
+      "title": "Three partners, three jobs",
+      "cards": [
+        {
+          "role": "Builds it",
+          "name": "Swifter Ventures LTD",
+          "body": "Katsina technology company, CAC RC 8894875. Its Secure Pass platform won the UNDP / FSD Africa Inclusive Insurance Innovation Challenge 2025."
+        },
+        {
+          "role": "Proves it",
+          "name": "Federal University Dutsin-Ma (FUDMA)",
+          "body": "Department of Animal Science. Sets the nutrient targets, runs the lab analyses and the laying trial, and co-authors the results."
+        },
+        {
+          "role": "Hosts it",
+          "name": "Katsina State Ministry of Livestock Development",
+          "body": "Provides the hub site and mobilises farmers through its extension staff."
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Questions",
+      "title": "Straight answers",
+      "items": [
+        {
+          "q": "Is a SolarFeed hub running today?",
+          "a": "Not yet. The hub hardware is specified and the research and host partners are identified; hub one is the pilot we are raising for. The images on this site are illustrations. The software builds on the offline-first stack Swifter already runs in production in other products."
+        },
+        {
+          "q": "How do you keep aflatoxin out of the feed?",
+          "a": "Every maize and groundnut-cake lot gets a moisture reading and an aflatoxin rapid test at intake. The software will not let a lot into a batch above 13% moisture or 20 µg/kg aflatoxin, and monthly laboratory tests confirm the results."
+        },
+        {
+          "q": "Can I bring my own grain?",
+          "a": "Yes. Farmers can bring their own grain for tested milling and mixing, or prepay for hub mash. Either way, every lot is tested before it is used."
+        },
+        {
+          "q": "What happens on cloudy days and during Harmattan?",
+          "a": "Grinding is scheduled into the strongest-sun hours, panels are cleaned weekly in the dust season, and the hub keeps about three days of buffer stock."
+        },
+        {
+          "q": "Who can partner with you?",
+          "a": "Funders, farmer cooperatives, state livestock programmes, feed ingredient suppliers and equipment fabricators. Email us to talk about hubs two through ten."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Bring a hub to your community",
+      "body": "We are raising for hub one and planning hubs two through ten. If you fund, farm, govern or build, we would like to hear from you."
+    }
+  },
+  "how": {
+    "hero": {
+      "eyebrow": "How it works",
+      "title": "A small mill that runs on sunlight and checks its own grain",
+      "lede": "A SolarFeed hub is a micro feed mill shared by 30–40 farmers. Solar power, a software quality gate and a sun-aware schedule work together, so a smallholder gets feed made the way a large farm makes it."
+    },
+    "parts": [
+      {
+        "tag": "01 · Power",
+        "title": "Sunlight drives the mill",
+        "body": "The hub’s heavy work — grinding and mixing — runs directly on solar power. Solar motor drives match the motors to what the panels are producing, so the hub needs no large battery bank and no diesel generator.",
+        "specs": [
+          "11 kWp solar array",
+          "7.5 kW hammer mill",
+          "500 kg vertical mixer",
+          "Solar motor drives, no large battery bank"
+        ]
+      },
+      {
+        "tag": "02 · Quality",
+        "title": "Software guards quality",
+        "body": "In a 12-state study, 83% of feed from in-house farm mills carried aflatoxin B1. The hub tests every maize and groundnut-cake lot at intake, and the software keeps any lot that fails out of every batch.",
+        "specs": [
+          "Moisture reading for every lot",
+          "Aflatoxin rapid test at intake",
+          "Blocked above 13% moisture or 20 µg/kg aflatoxin",
+          "Monthly laboratory tests confirm results",
+          "Batch ID on every 25 kg bag"
+        ]
+      },
+      {
+        "tag": "03 · Timing",
+        "title": "Scheduling replaces storage",
+        "body": "Instead of storing energy in batteries, the hub stores work. Grinding — the hungriest job — is queued for the strongest-sun hours, and lighter work fills the rest of the day.",
+        "specs": [
+          "Grinding in the strongest-sun window",
+          "Mixing and bagging fill the rest of the day",
+          "About three days of buffer stock",
+          "Panels cleaned weekly in the Harmattan season",
+          "Least-cost formulas updated with weekly local prices"
+        ]
+      }
+    ],
+    "cutaway": {
+      "eyebrow": "Inside a hub",
+      "title": "Six stations, one line",
+      "lede": "Grain moves through the hub in one direction: in at the quality station, out as traced 25 kg bags.",
+      "alt": "Labelled cutaway illustration of a SolarFeed hub showing the solar array, motor drives, quality station, hammer mill, mixer and bagging area.",
+      "labels": [
+        {
+          "title": "Solar array",
+          "body": "11 kWp of panels beside the hub, angled to the sun."
+        },
+        {
+          "title": "Motor drives",
+          "body": "Solar motor drives turn panel output into motor power, without a large battery bank."
+        },
+        {
+          "title": "Quality station",
+          "body": "Moisture meter and aflatoxin rapid tests for every incoming lot."
+        },
+        {
+          "title": "Hammer mill",
+          "body": "7.5 kW mill, run in the strongest-sun window."
+        },
+        {
+          "title": "Mixer",
+          "body": "500 kg vertical mixer blends the least-cost formula."
+        },
+        {
+          "title": "Bagging area",
+          "body": "Scales, 25 kg bags and batch-ID labels."
+        }
+      ],
+      "swipe": "Swipe sideways to see the whole hub"
+    },
+    "steps": {
+      "eyebrow": "The process",
+      "title": "Six steps from grain to bag",
+      "items": [
+        {
+          "title": "Intake",
+          "body": "Farmers bring their own grain for tested milling and mixing, or prepay for hub mash. Orders come by WhatsApp or USSD. Each lot is weighed and given an ID."
+        },
+        {
+          "title": "Quality gate",
+          "body": "Every maize and groundnut-cake lot gets a moisture reading and an aflatoxin rapid test. Above 13% moisture or 20 µg/kg aflatoxin, the lot is blocked."
+        },
+        {
+          "title": "Formulate",
+          "body": "The software builds a least-cost formula from passed ingredients and this week’s local prices, to nutrient targets set with FUDMA’s Department of Animal Science."
+        },
+        {
+          "title": "Schedule",
+          "body": "Grinding is queued into the strongest-sun hours. Mixing and bagging are planned around it."
+        },
+        {
+          "title": "Grind & mix",
+          "body": "The 7.5 kW hammer mill grinds; the 500 kg vertical mixer blends. Energy for every batch is metered."
+        },
+        {
+          "title": "Bag & trace",
+          "body": "Feed goes into 25 kg bags. Each bag carries a batch ID linked to the tests of every lot inside it."
+        }
+      ]
+    },
+    "day": {
+      "eyebrow": "A day at the hub",
+      "title": "Grind when the sun is strongest",
+      "lede": "A planned clear-season day. Move the time to see what runs.",
+      "timeLabel": "Time of day",
+      "running": "Running",
+      "nothing": "Hub closed",
+      "output": "Solar output",
+      "ofPeak": "of peak",
+      "curveLabel": "Solar output, illustrative clear day",
+      "note": "Illustrative schedule and solar curve for a clear day. Real hours will follow the hub’s measured output.",
+      "activities": [
+        {
+          "key": "intake",
+          "label": "Intake",
+          "start": 6.5,
+          "end": 10,
+          "body": "Farmers drop off grain; lots are weighed and logged."
+        },
+        {
+          "key": "testing",
+          "label": "Testing",
+          "start": 7,
+          "end": 10.5,
+          "body": "Moisture readings and aflatoxin rapid tests on every lot."
+        },
+        {
+          "key": "grinding",
+          "label": "Grinding",
+          "start": 10.5,
+          "end": 14.5,
+          "body": "The 7.5 kW hammer mill runs while the sun is strongest."
+        },
+        {
+          "key": "mixing",
+          "label": "Mixing",
+          "start": 13,
+          "end": 16.5,
+          "body": "Ground ingredients are blended in the 500 kg mixer."
+        },
+        {
+          "key": "bagging",
+          "label": "Bagging",
+          "start": 14,
+          "end": 17.5,
+          "body": "25 kg bags filled, weighed and labelled with batch IDs."
+        }
+      ]
+    },
+    "model": {
+      "eyebrow": "Operating model",
+      "title": "How farmers use a hub",
+      "items": [
+        {
+          "title": "Bring grain or prepay",
+          "body": "Bring your own grain for tested milling and mixing, or prepay for hub mash."
+        },
+        {
+          "title": "Pay per bag",
+          "body": "A per-bag fee covers the operators and maintenance."
+        },
+        {
+          "title": "Order by phone",
+          "body": "Orders come by WhatsApp or USSD, so any phone works."
+        },
+        {
+          "title": "Works offline",
+          "body": "The operator tablet works without signal and syncs later."
+        },
+        {
+          "title": "Your data, with consent",
+          "body": "Farmer data is handled with consent under the Nigeria Data Protection Act 2023."
+        },
+        {
+          "title": "One hub, one cluster",
+          "body": "Each hub serves a cluster of 30–40 farmers."
+        }
+      ]
+    }
+  },
+  "pilot": {
+    "hero": {
+      "eyebrow": "The pilot · Katsina State, Nigeria",
+      "title": "One hub. Twelve months. Everything measured.",
+      "lede": "Hub one is the pilot we are raising for. It will show, with measured figures, whether solar milling and a software quality gate can make good feed cheaper for smallholders."
+    },
+    "planTitle": "The plan",
+    "targetsTitle": "Success targets",
+    "method": {
+      "eyebrow": "Methodology",
+      "title": "How we will measure it",
+      "items": [
+        {
+          "title": "Baseline survey",
+          "body": "60 farmers and 2 diesel mills, surveyed before the hub opens, to record what feed costs today and how it is made."
+        },
+        {
+          "title": "Energy logging per batch",
+          "body": "Energy used by every batch is metered and logged against the tonnes milled."
+        },
+        {
+          "title": "CO₂ per tonne, including transport",
+          "body": "Emissions are compared with diesel milling, counting the transport of grain and feed, not only the mill."
+        },
+        {
+          "title": "Monthly laboratory tests",
+          "body": "Composition, aflatoxin and mixing-uniformity tests every month, confirming the rapid tests run at intake."
+        },
+        {
+          "title": "Laying trial",
+          "body": "120 hens in 2 treatments × 6 replicate pens of 10 birds, for 12 weeks: hub mash against commercial layer mash. Run by FUDMA under animal ethics approval."
+        }
+      ]
+    },
+    "trial": {
+      "title": "The laying trial design",
+      "lede": "2 treatments × 6 replicate pens × 10 birds = 120 hens, over 12 weeks.",
+      "hub": "Hub mash",
+      "commercial": "Commercial layer mash",
+      "pen": "Pen {n}",
+      "note": "Schematic. Pen allocation will be randomised by FUDMA.",
+      "alt": "Diagram of 12 pens of 10 hens each: 6 pens fed hub mash and 6 pens fed commercial layer mash."
+    },
+    "budget": {
+      "eyebrow": "Budget",
+      "title": "€18,250 requested, €25,250 in total",
+      "colLine": "Budget line",
+      "colAmount": "Amount",
+      "requested": "Requested",
+      "inKind": "In-kind co-financing",
+      "total": "Pilot total"
+    },
+    "outputs": {
+      "title": "What we will publish",
+      "items": [
+        {
+          "title": "Open-access report",
+          "body": "Costs, energy, CO₂, feed quality and the laying-trial results."
+        },
+        {
+          "title": "Anonymised dataset",
+          "body": "Batch-level data, with farmer details removed."
+        },
+        {
+          "title": "Replication guide",
+          "body": "In English and Hausa, so others can build hubs two through ten."
+        }
+      ]
+    },
+    "site": {
+      "title": "The hub site",
+      "body": "Hosted by the Katsina State Ministry of Livestock Development. We will add photos when installation begins."
+    },
+    "journal": {
+      "eyebrow": "Pilot journal",
+      "title": "Updates from the hub",
+      "lede": "Short, dated notes as the pilot runs.",
+      "empty": "First update coming when installation begins.",
+      "loading": "Loading updates…",
+      "error": "Updates could not be loaded right now."
+    }
+  },
+  "impact": {
+    "hero": {
+      "eyebrow": "Impact",
+      "title": "Cheaper feed, safer feed, and less diesel",
+      "lede": "Why a shared solar feed hub matters for farmers, for food safety and for northern Nigeria’s grain economy. Every figure on this page has a source listed at the bottom."
+    },
+    "problem": {
+      "eyebrow": "The problem",
+      "title": "What smallholders face today",
+      "items": [
+        {
+          "value": "65–70%",
+          "body": "of poultry input costs is feed.",
+          "source": "Poultry Association of Nigeria"
+        },
+        {
+          "value": "8,000",
+          "body": "layers is roughly where milling your own feed starts to pay.",
+          "source": "Poultry Association of Nigeria"
+        },
+        {
+          "value": "60%+",
+          "body": "of the sector is smallholders.",
+          "source": "Poultry Association of Nigeria"
+        },
+        {
+          "value": "+86%",
+          "body": "rise in the average diesel price, from ₦1,758/L in May 2025 to ₦3,277/L in May 2026. The North-West was the highest-priced zone.",
+          "source": "National Bureau of Statistics, Diesel Price Watch"
+        },
+        {
+          "value": "83%",
+          "body": "of feed samples from in-house farm mills across 12 states carried aflatoxin B1, mostly from groundnut cake.",
+          "source": "Akinmusire et al., 2019"
+        }
+      ]
+    },
+    "environment": {
+      "eyebrow": "Environment",
+      "title": "Taking diesel out of milling",
+      "body": "Bagged feed is milled far away and priced on diesel. A hub mills on sunlight, close to the farms it serves, from grain grown nearby.",
+      "points": [
+        {
+          "title": "No diesel in the mill",
+          "body": "The hammer mill and mixer run on an 11 kWp solar array through solar motor drives."
+        },
+        {
+          "title": "Shorter journeys",
+          "body": "Grain goes from local farms to a local hub and back as feed, instead of to a distant mill."
+        },
+        {
+          "title": "Measured, not assumed",
+          "body": "The pilot targets energy cost and CO₂ per tonne at least 50% below diesel, including transport, and will publish the result either way."
+        }
+      ],
+      "evidence": "The evidence so far is mixed. Solar milling pilots in Kenya, Uganda and Tanzania found a remaining viability gap against diesel (Efficiency for Access, CLASP and Energy 4 Impact, 2020). A 2025 analysis found PV-powered milling can be more cost-effective than diesel in sub-Saharan Africa (Falama and Sun, 2025). Hub one is designed to find out which holds in Katsina."
+    },
+    "safety": {
+      "eyebrow": "Food safety",
+      "title": "Every lot tested before it is used",
+      "body": "In a 12-state study, 83% of feed from in-house farm mills carried aflatoxin B1. A hub tests every maize and groundnut-cake lot at intake and blocks any lot above 13% moisture or 20 µg/kg aflatoxin.",
+      "points": [
+        "Rapid tests at intake, confirmed by monthly laboratory tests",
+        "Target: every released batch at or below 20 µg/kg aflatoxin and 13% moisture",
+        "Batch ID on every 25 kg bag, linked to its ingredient tests"
+      ]
+    },
+    "jobs": {
+      "eyebrow": "Local economy",
+      "title": "Jobs and grain markets close to home",
+      "points": [
+        {
+          "title": "Trained operators",
+          "body": "Two operators are trained in the pilot to run the hub, and each new hub needs its own team."
+        },
+        {
+          "title": "Local grain",
+          "body": "Least-cost formulas are built from local ingredients priced weekly, so feed money stays closer to local grain markets."
+        },
+        {
+          "title": "Local partners",
+          "body": "We want to work with feed ingredient suppliers and equipment fabricators as hubs grow."
+        }
+      ]
+    },
+    "data": {
+      "eyebrow": "Data rights",
+      "title": "Farmers own their data",
+      "body": "Orders, test results and batch records are collected with consent under the Nigeria Data Protection Act 2023, used only to run the hub and the pilot research, and anonymised before anything is published. Farmers can ask to see, correct or delete their data at any time.",
+      "note": "Our founder is a Nigeria Data Protection Commission (NDPC) Data Privacy Ambassador."
+    },
+    "sources": {
+      "eyebrow": "Sources",
+      "title": "Where our figures come from",
+      "estimatesNote": "Two figures on this site are our own calculations, not published findings: the energy cost per bag (≈ ₦1,670 diesel vs ≈ ₦80 solar) is a planning estimate, and the yearly savings by flock size are illustrative. Both are always labelled.",
+      "items": [
+        {
+          "cite": "Poultry Association of Nigeria.",
+          "detail": "Feed is 65–70% of poultry input costs; smallholders are over 60% of the sector; own-mill break-even at about 8,000 layers.",
+          "url": ""
+        },
+        {
+          "cite": "National Bureau of Statistics, Diesel Price Watch.",
+          "detail": "Average diesel price ₦1,758/L (May 2025) and ₦3,277/L (May 2026); North-West the highest zone.",
+          "url": "https://nigerianstat.gov.ng/"
+        },
+        {
+          "cite": "Akinmusire, O. O. et al. (2019). Mycotoxins in poultry feed and feed ingredients in Nigeria. Mycotoxin Research, 35(2), 149–155.",
+          "detail": "Aflatoxin B1 in 83% of feed samples from in-house farm mills across 12 states; groundnut cake the main source.",
+          "url": "https://doi.org/10.1007/s12550-018-0337-y"
+        },
+        {
+          "cite": "Belonio, A. T. et al. (2003).",
+          "detail": "About 10 L of diesel per 300 kg processed in a village feed mill.",
+          "url": ""
+        },
+        {
+          "cite": "Efficiency for Access, CLASP and Energy 4 Impact (2020). Solar Milling: Exploring Market Requirements to Close the Commercial Viability Gap.",
+          "detail": "Solar milling pilots in Kenya, Uganda and Tanzania found a remaining viability gap against diesel.",
+          "url": "https://www.clasp.ngo/research/all/solar-milling-exploring-market-requirements-to-close-the-commercial-viability-2/"
+        },
+        {
+          "cite": "Falama, R. Z. and Sun, Y. (2025). Performance Improvement of Rural Electrification–Based PV Energy System: A Case Study in Sub-Saharan Africa. Journal of Electrical and Computer Engineering.",
+          "detail": "PV-powered milling can be more cost-effective than diesel in sub-Saharan Africa.",
+          "url": "https://doi.org/10.1155/jece/8843767"
+        }
+      ]
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "About",
+      "title": "Built in Katsina, for the farmers around it",
+      "lede": "SolarFeed Hubs is a project of Swifter Ventures LTD, a Katsina technology company, working with a university research partner and a state ministry host."
+    },
+    "company": {
+      "eyebrow": "Swifter Ventures LTD",
+      "title": "The company building it",
+      "paragraphs": [
+        "Swifter Ventures LTD is a technology company based in Katsina, registered with the Corporate Affairs Commission as RC 8894875.",
+        "Its Secure Pass platform won the UNDP / FSD Africa Inclusive Insurance Innovation Challenge 2025. SolarFeed Hubs builds on the offline-first software stack Swifter already runs in production in other products."
+      ],
+      "facts": [
+        {
+          "label": "Registered",
+          "value": "CAC RC 8894875"
+        },
+        {
+          "label": "Based in",
+          "value": "Katsina, Katsina State"
+        },
+        {
+          "label": "Recognition",
+          "value": "UNDP / FSD Africa Inclusive Insurance Innovation Challenge 2025, Secure Pass"
+        }
+      ]
+    },
+    "founder": {
+      "eyebrow": "Founder",
+      "name": "Isma'il Said",
+      "role": "Founder & CEO, Swifter Ventures LTD",
+      "badge": "NDPC Data Privacy Ambassador",
+      "slot": "Founder photo — upload",
+      "body": "Isma'il leads SolarFeed Hubs for Swifter Ventures."
+    },
+    "partners": {
+      "eyebrow": "Partners",
+      "title": "Who does what"
+    },
+    "principles": {
+      "eyebrow": "How we work",
+      "title": "Three commitments",
+      "items": [
+        {
+          "title": "Honest numbers",
+          "body": "Estimates are labelled as estimates until the pilot measures them."
+        },
+        {
+          "title": "Open results",
+          "body": "An open-access report, an anonymised dataset and an English–Hausa replication guide."
+        },
+        {
+          "title": "Farmer consent",
+          "body": "Farmer data is handled with consent under the Nigeria Data Protection Act 2023."
+        }
+      ]
+    },
+    "team": {
+      "title": "The team",
+      "body": "Photos of the team and partners will be added as the pilot begins."
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Partner with us",
+      "title": "Bring a hub to your community",
+      "lede": "Funders, farmer cooperatives, state livestock programmes, feed ingredient suppliers, equipment fabricators, researchers and farmers: tell us how you would like to work together. We reply by email."
+    },
+    "form": {
+      "title": "Send an enquiry",
+      "required": "Required",
+      "optional": "optional",
+      "fullName": "Full name",
+      "organisation": "Organisation",
+      "organisationHint": "If you farm or work independently, write “Independent”.",
+      "role": "Role",
+      "email": "Email",
+      "phone": "Phone",
+      "audience": "I am a…",
+      "audiencePlaceholder": "Choose one",
+      "audiences": [
+        {
+          "value": "funder",
+          "label": "Funder"
+        },
+        {
+          "value": "cooperative",
+          "label": "Cooperative"
+        },
+        {
+          "value": "government",
+          "label": "Government programme"
+        },
+        {
+          "value": "supplier",
+          "label": "Supplier or fabricator"
+        },
+        {
+          "value": "farmer",
+          "label": "Farmer"
+        },
+        {
+          "value": "researcher",
+          "label": "Researcher"
+        },
+        {
+          "value": "media",
+          "label": "Media"
+        },
+        {
+          "value": "other",
+          "label": "Other"
+        }
+      ],
+      "message": "Message",
+      "consent": "I agree that SolarFeed Hubs may store my details to respond to this enquiry, in line with the Nigeria Data Protection Act 2023.",
+      "privacyLink": "Read our privacy policy",
+      "submit": "Send enquiry",
+      "sending": "Sending…",
+      "errorSummary": "Please fix {count} problem(s) below.",
+      "errors": {
+        "fullName": "Enter your full name.",
+        "organisation": "Enter your organisation, or “Independent”.",
+        "role": "Enter your role.",
+        "email": "Enter a valid email address, like name@example.com.",
+        "phone": "Enter a valid phone number, or leave it blank.",
+        "audience": "Choose what best describes you.",
+        "message": "Write a message of at least 20 characters.",
+        "messageMax": "Keep your message under 4,000 characters.",
+        "consent": "Tick the box to agree, so we can store your details and reply."
+      },
+      "successTitle": "Thank you, {name}.",
+      "successBody": "Your enquiry has been received. We will reply to {email}.",
+      "sendAnother": "Send another enquiry",
+      "failed": "Your enquiry was not sent. Please try again, or email us at isfagachi@gmail.com.",
+      "notConfigured": "The online form is not connected yet. Please email isfagachi@gmail.com and we will reply from there."
+    },
+    "details": {
+      "title": "Contact details",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "mapLabel": "Map of Katsina",
+      "mapNote": "Interactive map coming soon",
+      "mapLink": "Open Katsina in OpenStreetMap"
+    }
+  },
+  "privacy": {
+    "eyebrow": "Privacy policy",
+    "title": "Your data, in plain language",
+    "updated": "Last updated: 5 October 2026",
+    "intro": "This policy explains what personal data SolarFeed Hubs collects through this website, why, how long we keep it and how to see or delete it. SolarFeed Hubs is a project of Swifter Ventures LTD (CAC RC 8894875), which is the data controller. We follow the Nigeria Data Protection Act 2023.",
+    "sections": [
+      {
+        "title": "What we collect",
+        "paragraphs": [
+          "When you send the enquiry form: your full name, organisation, role, email address, phone number (if you give it), what kind of partner you are, your message and your consent.",
+          "We do not use analytics, advertising trackers or cookies. Your browser remembers your language choice on your own device only.",
+          "Like every website, our hosting provider records technical logs such as IP addresses to keep the site running and secure. Our fonts are served from our own site, so no third party sees your visit."
+        ]
+      },
+      {
+        "title": "Why we collect it",
+        "paragraphs": [
+          "To read and reply to your enquiry, and to follow up on a partnership you asked about. Our lawful basis is your consent, which you give with the tick box on the form.",
+          "We never sell your data and never use it for advertising."
+        ]
+      },
+      {
+        "title": "Where it is stored",
+        "paragraphs": [
+          "Enquiries are stored in a database run by our provider, Supabase. Its servers may be outside Nigeria. Where data leaves Nigeria, we rely on the safeguards the Nigeria Data Protection Act 2023 requires for cross-border transfers. Only the SolarFeed Hubs team can read enquiries."
+        ]
+      },
+      {
+        "title": "How long we keep it",
+        "paragraphs": [
+          "We keep an enquiry for up to 24 months after our last contact with you, then delete it. If you ask us to delete it sooner, we will."
+        ]
+      },
+      {
+        "title": "Your rights",
+        "paragraphs": [
+          "You can ask to see the data we hold about you, correct it, delete it, or withdraw your consent at any time. Withdrawing consent does not affect anything we did before you withdrew it.",
+          "If you are not happy with how we handle your data, you can complain to the Nigeria Data Protection Commission (NDPC)."
+        ]
+      },
+      {
+        "title": "Farmer data at the hub",
+        "paragraphs": [
+          "Data collected at a hub — orders, ingredient tests and batch records — is handled with each farmer’s consent under the Nigeria Data Protection Act 2023 and anonymised before any research data is published. Farmers will receive a separate plain-language notice, in English and Hausa, when the hub opens."
+        ]
+      },
+      {
+        "title": "Contact us",
+        "paragraphs": [
+          "To see, correct or delete your data, email isfagachi@gmail.com or write to Swifter Ventures LTD, No. 3 Ibrahim Coomassie Road, New GRA, Ring Road, Katsina, Katsina State, Nigeria."
+        ]
+      }
+    ]
+  },
+  "notFound": {
+    "eyebrow": "404",
+    "title": "This page is not here",
+    "body": "The link may be old, or the page may have moved."
+  }
+}

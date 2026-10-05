@@ -1,0 +1,1084 @@
+{
+  "meta": {
+    "langName": "Hausa",
+    "translationStatus": "needs-human-translation"
+  },
+  "common": {
+    "skip": "",
+    "estimate": "",
+    "illustrative": "",
+    "sampleData": "",
+    "source": "",
+    "sources": "",
+    "photoSoon": "",
+    "partnerCta": "",
+    "emailUs": "",
+    "callUs": "",
+    "email": "isfagachi@gmail.com",
+    "phone": "+234 810 841 3213",
+    "phoneHref": "+2348108413213",
+    "address": "No. 3 Ibrahim Coomassie Road, New GRA, Ring Road, Katsina, Katsina State, Nigeria",
+    "oneLiner": "",
+    "backHome": "",
+    "readMore": "",
+    "opensNewTab": ""
+  },
+  "nav": {
+    "homeLink": "",
+    "primary": "",
+    "home": "",
+    "problem": "",
+    "how": "",
+    "numbers": "",
+    "pilot": "",
+    "partners": "",
+    "about": "",
+    "impact": "",
+    "contact": "",
+    "privacy": "",
+    "menu": "",
+    "openMenu": "",
+    "closeMenu": "",
+    "language": "",
+    "langNotice": ""
+  },
+  "footer": {
+    "description": "",
+    "site": "",
+    "contact": "",
+    "projectOf": "",
+    "privacy": "",
+    "disclaimer": "",
+    "copyright": ""
+  },
+  "seo": {
+    "home": {
+      "title": "",
+      "description": ""
+    },
+    "how": {
+      "title": "",
+      "description": ""
+    },
+    "pilot": {
+      "title": "",
+      "description": ""
+    },
+    "impact": {
+      "title": "",
+      "description": ""
+    },
+    "about": {
+      "title": "",
+      "description": ""
+    },
+    "contact": {
+      "title": "",
+      "description": ""
+    },
+    "privacy": {
+      "title": "",
+      "description": ""
+    },
+    "notFound": {
+      "title": "",
+      "description": ""
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "",
+      "title1": "",
+      "title2": "",
+      "ctaPrimary": "",
+      "ctaSecondary": "",
+      "cardLabel": "",
+      "cardItems": [
+        {
+          "value": "150 t",
+          "label": ""
+        },
+        {
+          "value": "30–40",
+          "label": ""
+        },
+        {
+          "value": "15%",
+          "label": ""
+        }
+      ],
+      "cardNote": "",
+      "illustrationAlt": ""
+    },
+    "partners": {
+      "label": "",
+      "names": [
+        "Swifter Ventures LTD",
+        "Federal University Dutsin-Ma",
+        "Katsina State Ministry of Livestock Development"
+      ]
+    },
+    "problem": {
+      "eyebrow": "",
+      "title": "",
+      "lede": "",
+      "feedShare": {
+        "value": "65–70%",
+        "title": "",
+        "body": "",
+        "source": "",
+        "chartLabel": ""
+      },
+      "diesel": {
+        "title": "",
+        "callout": "+86% in a year",
+        "fromLabel": "",
+        "toLabel": "",
+        "fromValue": "₦1,758",
+        "toValue": "₦3,277",
+        "body": "",
+        "source": "",
+        "chartLabel": "",
+        "calloutValue": "",
+        "calloutUnit": ""
+      },
+      "aflatoxin": {
+        "value": "83",
+        "title": "",
+        "body": "",
+        "source": "",
+        "chartLabel": "",
+        "legendAffected": "",
+        "legendClear": ""
+      },
+      "scale": {
+        "title": "",
+        "breakEvenLabel": "",
+        "breakEvenValue": "",
+        "flockLabel": "",
+        "flockValue": "300",
+        "caption": "",
+        "body": "",
+        "source": "",
+        "chartLabel": ""
+      },
+      "statement": ""
+    },
+    "how": {
+      "eyebrow": "",
+      "title": "",
+      "lede": "",
+      "parts": [
+        {
+          "tag": "",
+          "title": "",
+          "body": ""
+        },
+        {
+          "tag": "",
+          "title": "",
+          "body": ""
+        },
+        {
+          "tag": "",
+          "title": "",
+          "body": ""
+        }
+      ],
+      "stepsTitle": "",
+      "steps": [
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        }
+      ],
+      "link": ""
+    },
+    "software": {
+      "eyebrow": "",
+      "title": "",
+      "body": "",
+      "bullets": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "console": {
+        "title": "",
+        "subtitle": "",
+        "badge": "",
+        "colLot": "",
+        "colIngredient": "",
+        "colMoisture": "",
+        "colAflatoxin": "",
+        "colStatus": "",
+        "pass": "",
+        "blocked": "",
+        "blockedReason": "",
+        "limits": "",
+        "rows": [
+          {
+            "id": "K-0142",
+            "ingredient": "",
+            "moisture": "12.1%",
+            "aflatoxin": "6 µg/kg",
+            "status": "pass"
+          },
+          {
+            "id": "K-0143",
+            "ingredient": "",
+            "moisture": "11.8%",
+            "aflatoxin": "4 µg/kg",
+            "status": "pass"
+          },
+          {
+            "id": "K-0144",
+            "ingredient": "",
+            "moisture": "10.9%",
+            "aflatoxin": "38 µg/kg",
+            "status": "blocked"
+          },
+          {
+            "id": "K-0145",
+            "ingredient": "",
+            "moisture": "11.2%",
+            "aflatoxin": "3 µg/kg",
+            "status": "pass"
+          }
+        ],
+        "tileSolar": "",
+        "tileSolarValue": "9.4 kW",
+        "tileWindow": "",
+        "tileWindowValue": "10:30–14:30",
+        "tileBatch": "",
+        "tileBatchValue": "",
+        "caption": ""
+      }
+    },
+    "numbers": {
+      "eyebrow": "",
+      "title": "",
+      "lede": "",
+      "energy": {
+        "title": "",
+        "badge": "",
+        "diesel": "",
+        "dieselValue": "≈ ₦1,670",
+        "solar": "",
+        "solarValue": "≈ ₦80",
+        "callout": "−95%",
+        "calloutLabel": "",
+        "footnote": "",
+        "chartLabel": ""
+      },
+      "yearly": {
+        "title": "",
+        "subtitle": "",
+        "badge": "",
+        "axis": "",
+        "valueLabel": "",
+        "tableCaption": "",
+        "hens": ""
+      },
+      "calc": {
+        "title": "",
+        "badge": "",
+        "lede": "",
+        "hensLabel": "",
+        "priceLabel": "",
+        "bagsPerYear": "",
+        "perMonth": "",
+        "perYear": "",
+        "atDiscount": "",
+        "note": "",
+        "formula": ""
+      },
+      "budget": {
+        "title": "",
+        "lede": "",
+        "requested": "",
+        "inKind": "",
+        "total": "",
+        "chartLabel": "",
+        "items": [
+          {
+            "key": "ops",
+            "label": "",
+            "value": 3300
+          },
+          {
+            "key": "solar",
+            "label": "",
+            "value": 3800
+          },
+          {
+            "key": "qc",
+            "label": "",
+            "value": 2900
+          },
+          {
+            "key": "mill",
+            "label": "",
+            "value": 2750
+          },
+          {
+            "key": "software",
+            "label": "",
+            "value": 2700
+          },
+          {
+            "key": "trial",
+            "label": "",
+            "value": 1450
+          },
+          {
+            "key": "contingency",
+            "label": "",
+            "value": 1350
+          }
+        ]
+      }
+    },
+    "audience": {
+      "eyebrow": "",
+      "title": "",
+      "cards": [
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        }
+      ]
+    },
+    "pilot": {
+      "eyebrow": "",
+      "title": "",
+      "lede": "",
+      "phases": [
+        {
+          "when": "",
+          "title": "",
+          "body": ""
+        },
+        {
+          "when": "",
+          "title": "",
+          "body": ""
+        },
+        {
+          "when": "",
+          "title": "",
+          "body": ""
+        },
+        {
+          "when": "",
+          "title": "",
+          "body": ""
+        }
+      ],
+      "targetsTitle": "",
+      "targets": [
+        {
+          "value": "≥ 50%",
+          "label": ""
+        },
+        {
+          "value": "≤ 20 µg/kg",
+          "label": ""
+        },
+        {
+          "value": "No worse",
+          "label": ""
+        },
+        {
+          "value": "≥ 15%",
+          "label": ""
+        }
+      ],
+      "link": ""
+    },
+    "team": {
+      "eyebrow": "",
+      "title": "",
+      "cards": [
+        {
+          "role": "",
+          "name": "",
+          "body": ""
+        },
+        {
+          "role": "",
+          "name": "",
+          "body": ""
+        },
+        {
+          "role": "",
+          "name": "",
+          "body": ""
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "",
+      "title": "",
+      "items": [
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        },
+        {
+          "q": "",
+          "a": ""
+        }
+      ]
+    },
+    "cta": {
+      "title": "",
+      "body": ""
+    }
+  },
+  "how": {
+    "hero": {
+      "eyebrow": "",
+      "title": "",
+      "lede": ""
+    },
+    "parts": [
+      {
+        "tag": "",
+        "title": "",
+        "body": "",
+        "specs": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "title": "",
+        "body": "",
+        "specs": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "tag": "",
+        "title": "",
+        "body": "",
+        "specs": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ],
+    "cutaway": {
+      "eyebrow": "",
+      "title": "",
+      "lede": "",
+      "alt": "",
+      "labels": [
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        }
+      ],
+      "swipe": ""
+    },
+    "steps": {
+      "eyebrow": "",
+      "title": "",
+      "items": [
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        }
+      ]
+    },
+    "day": {
+      "eyebrow": "",
+      "title": "",
+      "lede": "",
+      "timeLabel": "",
+      "running": "",
+      "nothing": "",
+      "output": "",
+      "ofPeak": "",
+      "curveLabel": "",
+      "note": "",
+      "activities": [
+        {
+          "key": "intake",
+          "label": "",
+          "start": 6.5,
+          "end": 10,
+          "body": ""
+        },
+        {
+          "key": "testing",
+          "label": "",
+          "start": 7,
+          "end": 10.5,
+          "body": ""
+        },
+        {
+          "key": "grinding",
+          "label": "",
+          "start": 10.5,
+          "end": 14.5,
+          "body": ""
+        },
+        {
+          "key": "mixing",
+          "label": "",
+          "start": 13,
+          "end": 16.5,
+          "body": ""
+        },
+        {
+          "key": "bagging",
+          "label": "",
+          "start": 14,
+          "end": 17.5,
+          "body": ""
+        }
+      ]
+    },
+    "model": {
+      "eyebrow": "",
+      "title": "",
+      "items": [
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        }
+      ]
+    }
+  },
+  "pilot": {
+    "hero": {
+      "eyebrow": "",
+      "title": "",
+      "lede": ""
+    },
+    "planTitle": "",
+    "targetsTitle": "",
+    "method": {
+      "eyebrow": "",
+      "title": "",
+      "items": [
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        }
+      ]
+    },
+    "trial": {
+      "title": "",
+      "lede": "",
+      "hub": "",
+      "commercial": "",
+      "pen": "",
+      "note": "",
+      "alt": ""
+    },
+    "budget": {
+      "eyebrow": "",
+      "title": "",
+      "colLine": "",
+      "colAmount": "",
+      "requested": "",
+      "inKind": "",
+      "total": ""
+    },
+    "outputs": {
+      "title": "",
+      "items": [
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        }
+      ]
+    },
+    "site": {
+      "title": "",
+      "body": ""
+    },
+    "journal": {
+      "eyebrow": "",
+      "title": "",
+      "lede": "",
+      "empty": "",
+      "loading": "",
+      "error": ""
+    }
+  },
+  "impact": {
+    "hero": {
+      "eyebrow": "",
+      "title": "",
+      "lede": ""
+    },
+    "problem": {
+      "eyebrow": "",
+      "title": "",
+      "items": [
+        {
+          "value": "65–70%",
+          "body": "",
+          "source": ""
+        },
+        {
+          "value": "8,000",
+          "body": "",
+          "source": ""
+        },
+        {
+          "value": "60%+",
+          "body": "",
+          "source": ""
+        },
+        {
+          "value": "+86%",
+          "body": "",
+          "source": ""
+        },
+        {
+          "value": "83%",
+          "body": "",
+          "source": ""
+        }
+      ]
+    },
+    "environment": {
+      "eyebrow": "",
+      "title": "",
+      "body": "",
+      "points": [
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        }
+      ],
+      "evidence": ""
+    },
+    "safety": {
+      "eyebrow": "",
+      "title": "",
+      "body": "",
+      "points": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "jobs": {
+      "eyebrow": "",
+      "title": "",
+      "points": [
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        }
+      ]
+    },
+    "data": {
+      "eyebrow": "",
+      "title": "",
+      "body": "",
+      "note": ""
+    },
+    "sources": {
+      "eyebrow": "",
+      "title": "",
+      "estimatesNote": "",
+      "items": [
+        {
+          "cite": "",
+          "detail": "",
+          "url": ""
+        },
+        {
+          "cite": "",
+          "detail": "",
+          "url": "https://nigerianstat.gov.ng/"
+        },
+        {
+          "cite": "",
+          "detail": "",
+          "url": "https://doi.org/10.1007/s12550-018-0337-y"
+        },
+        {
+          "cite": "",
+          "detail": "",
+          "url": ""
+        },
+        {
+          "cite": "",
+          "detail": "",
+          "url": "https://www.clasp.ngo/research/all/solar-milling-exploring-market-requirements-to-close-the-commercial-viability-2/"
+        },
+        {
+          "cite": "",
+          "detail": "",
+          "url": "https://doi.org/10.1155/jece/8843767"
+        }
+      ]
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "",
+      "title": "",
+      "lede": ""
+    },
+    "company": {
+      "eyebrow": "",
+      "title": "",
+      "paragraphs": [
+        "",
+        ""
+      ],
+      "facts": [
+        {
+          "label": "",
+          "value": "CAC RC 8894875"
+        },
+        {
+          "label": "",
+          "value": "Katsina, Katsina State"
+        },
+        {
+          "label": "",
+          "value": "UNDP / FSD Africa Inclusive Insurance Innovation Challenge 2025, Secure Pass"
+        }
+      ]
+    },
+    "founder": {
+      "eyebrow": "",
+      "name": "Isma'il Said",
+      "role": "",
+      "badge": "",
+      "slot": "",
+      "body": ""
+    },
+    "partners": {
+      "eyebrow": "",
+      "title": ""
+    },
+    "principles": {
+      "eyebrow": "",
+      "title": "",
+      "items": [
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        },
+        {
+          "title": "",
+          "body": ""
+        }
+      ]
+    },
+    "team": {
+      "title": "",
+      "body": ""
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "",
+      "title": "",
+      "lede": ""
+    },
+    "form": {
+      "title": "",
+      "required": "",
+      "optional": "",
+      "fullName": "",
+      "organisation": "",
+      "organisationHint": "",
+      "role": "",
+      "email": "",
+      "phone": "",
+      "audience": "",
+      "audiencePlaceholder": "",
+      "audiences": [
+        {
+          "value": "funder",
+          "label": ""
+        },
+        {
+          "value": "cooperative",
+          "label": ""
+        },
+        {
+          "value": "government",
+          "label": ""
+        },
+        {
+          "value": "supplier",
+          "label": ""
+        },
+        {
+          "value": "farmer",
+          "label": ""
+        },
+        {
+          "value": "researcher",
+          "label": ""
+        },
+        {
+          "value": "media",
+          "label": ""
+        },
+        {
+          "value": "other",
+          "label": ""
+        }
+      ],
+      "message": "",
+      "consent": "",
+      "privacyLink": "",
+      "submit": "",
+      "sending": "",
+      "errorSummary": "",
+      "errors": {
+        "fullName": "",
+        "organisation": "",
+        "role": "",
+        "email": "",
+        "phone": "",
+        "audience": "",
+        "message": "",
+        "messageMax": "",
+        "consent": ""
+      },
+      "successTitle": "",
+      "successBody": "",
+      "sendAnother": "",
+      "failed": "",
+      "notConfigured": ""
+    },
+    "details": {
+      "title": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "mapLabel": "",
+      "mapNote": "",
+      "mapLink": ""
+    }
+  },
+  "privacy": {
+    "eyebrow": "",
+    "title": "",
+    "updated": "",
+    "intro": "",
+    "sections": [
+      {
+        "title": "",
+        "paragraphs": [
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "title": "",
+        "paragraphs": [
+          "",
+          ""
+        ]
+      },
+      {
+        "title": "",
+        "paragraphs": [
+          ""
+        ]
+      },
+      {
+        "title": "",
+        "paragraphs": [
+          ""
+        ]
+      },
+      {
+        "title": "",
+        "paragraphs": [
+          "",
+          ""
+        ]
+      },
+      {
+        "title": "",
+        "paragraphs": [
+          ""
+        ]
+      },
+      {
+        "title": "",
+        "paragraphs": [
+          ""
+        ]
+      }
+    ]
+  },
+  "notFound": {
+    "eyebrow": "",
+    "title": "",
+    "body": ""
+  }
+}

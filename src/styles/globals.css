@@ -1,0 +1,137 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Brand palette as RGB channels so Tailwind can apply alpha. */
+    --navy: 2 27 47;          /* #021B2F */
+    --hub: 14 110 197;        /* #0E6EC5 */
+    --hub-dark: 10 82 151;    /* #0A5297 */
+    --amber: 232 163 61;      /* #E8A33D — decorative / dark backgrounds only */
+    --amber-text: 154 91 0;   /* #9A5B00 — amber text on light backgrounds */
+    --alert: 194 65 12;       /* #C2410C */
+    --cream: 246 247 243;     /* #F6F7F3 */
+    --sky: 233 241 247;       /* #E9F1F7 */
+    --ink: 11 34 53;          /* #0B2235 */
+    --muted: 61 84 102;       /* #3D5466 */
+    --muted-2: 91 111 128;    /* #5B6F80 */
+    --line: 220 227 232;      /* #DCE3E8 */
+
+    /* Hex versions for SVG and chart libraries. */
+    --c-navy: #021b2f;
+    --c-hub: #0e6ec5;
+    --c-hub-dark: #0a5297;
+    --c-amber: #e8a33d;
+    --c-amber-text: #9a5b00;
+    --c-alert: #c2410c;
+    --c-cream: #f6f7f3;
+    --c-sky: #e9f1f7;
+    --c-ink: #0b2235;
+    --c-muted: #3d5466;
+    --c-muted-2: #5b6f80;
+    --c-line: #dce3e8;
+
+    --ease-brand: cubic-bezier(0.2, 0.7, 0.2, 1);
+    --header-h: 4.5rem;
+    color-scheme: light;
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+    scroll-padding-top: calc(var(--header-h) + 1rem);
+  }
+
+  body {
+    @apply bg-cream font-sans text-body text-ink antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  h1, h2, h3, h4 {
+    @apply font-display font-semibold text-navy;
+    text-wrap: balance;
+  }
+
+  p { text-wrap: pretty; }
+
+  ::selection { background: rgb(var(--amber) / 0.35); color: rgb(var(--navy)); }
+
+  /* Visible, consistent focus ring for keyboard users. */
+  :focus-visible {
+    outline: 3px solid rgb(var(--hub));
+    outline-offset: 3px;
+    border-radius: 6px;
+  }
+  .on-dark :focus-visible { outline-color: rgb(var(--amber)); }
+
+  [id] { scroll-margin-top: calc(var(--header-h) + 1rem); }
+  /* Programmatic focus targets (skip link, hash navigation) do not need a ring. */
+  [tabindex="-1"]:focus { outline: none; }
+}
+
+@layer components {
+  .eyebrow {
+    @apply font-mono text-[0.78rem] font-medium uppercase tracking-[0.14em] text-hub;
+  }
+  .on-dark .eyebrow { @apply text-amber; }
+
+  .card {
+    @apply rounded-card border border-line bg-white shadow-soft;
+  }
+
+  .section {
+    @apply py-20 md:py-28;
+    /* Skip style, layout and paint for off-screen sections until they near the viewport. */
+    content-visibility: auto;
+    contain-intrinsic-size: auto 900px;
+  }
+
+  .lede { @apply text-[1.1875rem] leading-relaxed text-muted; }
+
+  .link {
+    @apply font-semibold text-hub underline decoration-hub/30 decoration-2 underline-offset-4 transition-colors hover:text-hub-dark hover:decoration-hub-dark;
+  }
+
+  .tabular { font-variant-numeric: tabular-nums; }
+
+  .photo-slot {
+    @apply flex flex-col items-center justify-center gap-2 rounded-card border-2 border-dashed border-muted-2/50 bg-sky/60 p-6 text-center font-mono text-xs uppercase tracking-[0.12em] text-muted;
+  }
+}
+
+/* ---------- Illustration loops (pure CSS so they cost no JS) ---------- */
+.sf-spin { animation: sf-spin 90s linear infinite; transform-box: fill-box; transform-origin: center; }
+.sf-spin-slow { animation: sf-spin 140s linear infinite; transform-box: fill-box; transform-origin: center; }
+.sf-flow { animation: sf-flow 1.6s linear infinite; }
+.sf-peck { animation: sf-peck 4.8s var(--ease-brand) infinite; transform-box: fill-box; transform-origin: 15% 95%; }
+.sf-bob { animation: sf-bob 6s ease-in-out infinite; }
+.sf-glow { animation: sf-glow 5s ease-in-out infinite; }
+/* Hero entrance: pure CSS so it runs from the pre-rendered HTML, before JavaScript loads. */
+.sf-rise { animation: sf-rise 0.8s var(--ease-brand) both; }
+.sf-fade { animation: sf-fade 0.9s var(--ease-brand) both; }
+@keyframes sf-rise { from { opacity: 0; transform: translateY(24px); } to { opacity: 1; transform: none; } }
+@keyframes sf-fade { from { opacity: 0; } to { opacity: 1; } }
+
+@keyframes sf-spin { to { transform: rotate(360deg); } }
+@keyframes sf-flow { to { stroke-dashoffset: -28; } }
+@keyframes sf-peck {
+  0%, 55%, 100% { transform: rotate(0deg); }
+  62% { transform: rotate(38deg); }
+  68% { transform: rotate(4deg); }
+  74% { transform: rotate(38deg); }
+  82% { transform: rotate(0deg); }
+}
+@keyframes sf-bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+@keyframes sf-glow { 0%, 100% { opacity: 0.55; } 50% { opacity: 0.9; } }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  .sf-spin, .sf-spin-slow, .sf-flow, .sf-peck, .sf-bob, .sf-glow, .animate-pulse-dot { animation: none !important; }
+}
